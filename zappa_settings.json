@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "app.app", 
+        "profile_name": null, 
+        "project_name": "flask-app", 
+        "runtime": "python2.7", 
+        "s3_bucket": "zappa-n7atty42p"
+    }
+}
